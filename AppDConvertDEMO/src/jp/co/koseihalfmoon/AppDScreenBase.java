@@ -14,6 +14,8 @@ import 	java.awt.Color;
  * Contributors:	Naoshi WATANUKI - Initial API and implementation. -
  * Data Written :	2016.8.26 (Fri.)
  * Update Written: 	____.__.__
+ * 
+ * test for push some files to the gitHub.
  *-------------------------------------------------------------------------*/
 
 public class AppDScreenBase extends JFrame{
