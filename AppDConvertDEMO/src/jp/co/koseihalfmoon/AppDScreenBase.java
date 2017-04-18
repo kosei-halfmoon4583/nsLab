@@ -16,6 +16,7 @@ import 	java.awt.Color;
  * Update Written: 	____.__.__
  * 
  * test for push some files to the gitHub.
+ * test for fetch and merge.
  *-------------------------------------------------------------------------*/
 
 public class AppDScreenBase extends JFrame{
@@ -23,9 +24,9 @@ public class AppDScreenBase extends JFrame{
 	//コンテナのインスタンスを初期化
 	Container myContainer = null;
 	
-	protected	JLabel		LabelCopyright;	//CopyRight Label
-	protected	JLabel		fileSelectLabel;
-	protected	JLabel		cloudixLogo;	//Cloudix Logo
+	protected	JLabel		LabelCopyright;	        //CopyRight Label
+	protected	JLabel		fileSelectLabel;        //File選択ラベル
+	protected	JLabel		cloudixLogo;	        //Cloudix Logo
 	protected	JButton		btnRegist;		//CSV変換ボタン
 	protected	JButton		btnClose;		//Close ボタン
 	protected	JTextArea	txtEdit;		//各項目表示エリア
