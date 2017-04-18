@@ -16,7 +16,7 @@ import 	java.awt.Color;
  * Update Written: 	____.__.__
  * 
  * test for push some files to the gitHub.
- * test for fetch and merge.
+ * test for fetch and merge. 2017/04/18.
  *-------------------------------------------------------------------------*/
 
 public class AppDScreenBase extends JFrame{
